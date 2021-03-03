@@ -1,0 +1,31 @@
+{
+  "name": "express-image-filter",
+  "version": "1.0.0",
+  "description": "this is a middleware of Express.js.it is used filter image request by depending config.it must be in front of express.static server.",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "npm run test",
+    "build": "tsc"
+  },
+  "keywords": [
+    "image",
+    "wall",
+    "filter",
+    "image",
+    "image",
+    "midlleware"
+  ],
+  "author": "zgo",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zgoby/express-image-filter.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
